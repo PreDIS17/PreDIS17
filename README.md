@@ -1,13 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Hi%20I'm%20Muhammad-Amin&fontSize=60&fontColor=fff&animation=fadeIn&descAlignY=50&descAlign=50" width="100%"/>
-</p>
 
-<p align="center" style="margin-top:-140px;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
-</p>
-
-
-
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/> # Hi, I'm Muhammad-Amin  
 ### Backend Developer | Python | Django | DRF  
 
 💻 Специализируюсь на создании надёжных и масштабируемых приложений с использованием **Django** и **Django REST Framework**.  
