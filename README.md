@@ -27,15 +27,13 @@
 ---
 
 ### 🌍 Socials  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Hi%20I'm%20Muhammad-Amin&fontSize=60&fontColor=fff&animation=fadeIn)
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Amin) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш_линк)  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_ник) 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ваш_линк)
-
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PreDIS17) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-amin-xolmatov-426783355/)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mukhammadamin_x) 
+![Discord](https://img.shields.io/badge/Discord-prediss-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
