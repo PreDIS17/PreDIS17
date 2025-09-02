@@ -1,4 +1,9 @@
+<!-- Баннер -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Hi%20I'm%20Muhammad-Amin&fontSize=60&fontColor=fff&animation=fadeIn)
+
+<!-- Гиф -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
+
 
 
 ### Backend Developer | Python | Django | DRF  
