@@ -1,7 +1,3 @@
-<!-- Анимированный баннер с твоим ником -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Hi%20I'm%20Muhammad-Amin&fontSize=60&fontColor=fff&animation=fadeIn)
-
----
 
 <!-- Заголовок с гифкой слева -->
 <h1 align="center">
