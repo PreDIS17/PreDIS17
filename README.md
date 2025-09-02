@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Muhammad-Amin&fontSize=60&fontColor=fff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&fontSize=60&fontColor=fff&animation=fadeIn)
 
 # 👋 Hi, I'm Muhammad-Amin  
 ### Backend Developer | Python | Django | DRF  
