@@ -39,9 +39,10 @@
   <a href="https://t.me/mukhammadamin_x">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://discord.gg/cAW2zfNN">
-    <img src="https://img.shields.io/badge/&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+<a href="https://discord.gg/cAW2zfNN">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
 </div>
 
 ---
