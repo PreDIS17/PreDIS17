@@ -1,5 +1,9 @@
+<!-- Заголовок с гифкой -->
+<h1 align="left">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+  Hi, I'm Muhammad-Amin
+</h1>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/> # Hi, I'm Muhammad-Amin  
 ### Backend Developer | Python | Django | DRF  
 
 💻 Специализируюсь на создании надёжных и масштабируемых приложений с использованием **Django** и **Django REST Framework**.  
@@ -22,12 +26,16 @@
 
 ---
 
-
 ### 🌍 Socials  
-<a href="https://www.github.com/PreDIS17" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="[https://www.linkedin.com/in/muhammad-amin-xolmatov-426783355/]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-diskord prediss
-telegram @mukhammadamin_x
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Hi%20I'm%20Muhammad-Amin&fontSize=60&fontColor=fff&animation=fadeIn)
+
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Amin) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш_линк)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ваш_ник) 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ваш_линк)
+
 
 ---
 
