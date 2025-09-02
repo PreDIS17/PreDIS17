@@ -1,4 +1,3 @@
-
 <!-- Заголовок с гифкой слева -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="hi gif"/>
@@ -38,8 +37,8 @@
   <a href="https://t.me/mukhammadamin_x"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://discord.gg/cAW2zfNN"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://leetcode.com/u/PreDIS/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FF7A00" alt="LeetCode"/></a>
+  <a href="https://robocontest.uz/profile/predis"><img src="https://img.shields.io/badge/RoboContest-0077B6?style=for-the-badge&logo=robotframework&logoColor=white" alt="RoboContest"/></a>
 </p>
-
 
 ---
 
