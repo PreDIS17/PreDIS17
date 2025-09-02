@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&fontSize=60&fontColor=fff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Hi%20I'm%20Muhammad-Amin&fontSize=60&fontColor=fff&animation=fadeIn)
 
-# 👋 Hi, I'm Muhammad-Amin  
+
 ### Backend Developer | Python | Django | DRF  
 
 💻 Специализируюсь на создании надёжных и масштабируемых приложений с использованием **Django** и **Django REST Framework**.  
