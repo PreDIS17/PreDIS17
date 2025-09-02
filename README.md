@@ -1,6 +1,11 @@
-<!-- Заголовок с гифкой -->
-<h1 align="left">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+<!-- Анимированный баннер с твоим ником -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Hi%20I'm%20Muhammad-Amin&fontSize=60&fontColor=fff&animation=fadeIn)
+
+---
+
+<!-- Заголовок с гифкой слева -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="hi gif"/>
   Hi, I'm Muhammad-Amin
 </h1>
 
@@ -8,11 +13,11 @@
 
 💻 Специализируюсь на создании надёжных и масштабируемых приложений с использованием **Django** и **Django REST Framework**.  
 📊 Работаю с **PostgreSQL, Redis, Docker**, разрабатываю API и оптимизирую backend-логику.  
-🎯 Цель — писать чистый код, следовать лучшим практикам и развиваться как backend-инженер.  
+🎯 Стремлюсь писать чистый код, следовать лучшим практикам и развиваться как backend-инженер.
 
 ---
 
-### 🛠️ Tech Stack  
+###  Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
@@ -26,14 +31,22 @@
 
 ---
 
-### 🌍 Socials  
+##  Connect with me
 
----
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PreDIS17) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-amin-xolmatov-426783355/)  
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mukhammadamin_x) 
-![Discord](https://img.shields.io/badge/Discord-prediss-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+<div align="center">
+  <a href="https://github.com/PreDIS17">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-amin-xolmatov-426783355/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/mukhammadamin_x">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://discord.gg/cAW2zfNN">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
 
 ---
 
