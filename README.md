@@ -23,15 +23,8 @@
 ---
 
 ### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Amin&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Amin&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
 ---
-
-### 📊 Contribution Graph  
-![Muhammad-Amin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Amin&bg_color=1c1917&color=ffffff&line=0891b2&point=0891b2&area=true&hide_border=true)
 
 ---
 
