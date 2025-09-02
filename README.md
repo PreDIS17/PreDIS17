@@ -22,16 +22,12 @@
 
 ---
 
-### 📈 GitHub Stats  
-
----
-
----
 
 ### 🌍 Socials  
-<a href="https://www.github.com/Muhammad-Amin" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammad-amin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.stackoverflow.com/users/22107952/muhammad-amin" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://www.github.com/PreDIS17" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/muhammad-amin-xolmatov-426783355/]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+diskord prediss
+telegram @mukhammadamin_x
 
 ---
 
