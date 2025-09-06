@@ -42,4 +42,3 @@
 
 ---
 
-💡 *"Backend is not about what you see, it’s about what you can rely on."*
